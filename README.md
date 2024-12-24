@@ -83,6 +83,7 @@ This pie chart shows that Battery Electric Vehicles (BEVs) strongly dominate the
 ### Insights
 
 This graph shows the distribution of electric vehicle types (BEVs and PHEVs) over model years from approximately 2000 to 2022. Here are the key insights:
+
 • Overall Growth Trend: There's a clear upward trend in both vehicle types, particularly accelerating after 2010, indicating the growing adoption of electric vehicles.
 
 • BEV Dominance: Battery Electric Vehicles (shown in blue) have experienced significantly stronger growth compared to Plug-in Hybrid Electric Vehicles (shown in orange), especially in recent years.
@@ -92,9 +93,9 @@ This graph shows the distribution of electric vehicle types (BEVs and PHEVs) ove
    - Government incentives or regulations
    - Growing consumer interest in fully electric vehicles
      
-•PHEV Stability: Plug-in Hybrid Electric Vehicles show more modest but steady growth, maintaining numbers between 2,000-5,000 vehicles in recent years, suggesting a stable but smaller market segment.
+• PHEV Stability: Plug-in Hybrid Electric Vehicles show more modest but steady growth, maintaining numbers between 2,000-5,000 vehicles in recent years, suggesting a stable but smaller market segment.
 
-•Early Market: Both vehicle types show minimal presence before 2010, indicating that the electric vehicle market was relatively nascent in the early 2000s.
+• Early Market: Both vehicle types show minimal presence before 2010, indicating that the electric vehicle market was relatively nascent in the early 2000s.
 
 ## 3. Which type of vehicles have the most electric range?
 
