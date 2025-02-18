@@ -147,9 +147,9 @@ What is the CAFV? Well, this stands for Clean Alternative Fuel Vehicle. A Clean 
 
 ## 6. Dashboard 
 
-I added this dashboard section well after I finished the project, because at the time I had no idea how to create one. Coming across the Data Tutorials course [Power BI Dashboard Project](https://youtu.be/qjjt87YoOMg?si=xfGiVCTJdFdCqM0l) purely by chance, which focused on exactly the same project, I decided to follow it to structure my visualizations. Here is the dashboard that I built and the cleaned dataset (*): [drive/folder...](https://drive.google.com/drive/folder...) .
+I added this dashboard section well after I finished the project, because at the time I had no idea how to create one. Coming across the Data Tutorials course [Power BI Dashboard Project](https://youtu.be/qjjt87YoOMg?si=xfGiVCTJdFdCqM0l) purely by chance, which focused on exactly the same project, I decided to follow it to structure my visualizations. Here is the dashboard that I built and the cleaned dataset (*): [drive/folder...](https://drive.google.com/drive/folder...).
 
-![dashboard](./Pictures/dashboard.gif)
+![dashboard preview](./Pictures/dashboard.gif)
 
 
 # WHAT I LEARNED 
