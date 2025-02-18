@@ -145,9 +145,11 @@ What is the CAFV? Well, this stands for Clean Alternative Fuel Vehicle. A Clean 
 * The data reveals a clear opportunity: working with manufacturers to ensure new EV models meet CAFV battery range requirements could significantly increase the number of eligible vehicles in our market.
 * For immediate action, we should prioritize completing the battery range research for the large number of BEVs with unknown status, as this could substantially increase our confirmed CAFV-eligible vehicle count.
 
-## 5. Dashboard 
+## 6. Dashboard 
 
 I added this dashboard section well after I finished the project, because at the time I had no idea how to create one. Coming across the Data Tutorials course [Power BI Dashboard Project](https://youtu.be/qjjt87YoOMg?si=xfGiVCTJdFdCqM0l) purely by chance, which focused on exactly the same project, I decided to follow it to structure my visualizations. Here is the dashboard that I built and the cleaned dataset (*): [drive/folder...](https://drive.google.com/drive/folder...) .
+
+![dashboard](./Pictures/dash.png)
 
 
 # WHAT I LEARNED 
