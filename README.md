@@ -1,5 +1,5 @@
 # OVERVIEW 
-Welcome to my end to end project in data analysis, where I am interested in the electric car market in the city of Washington in the United States.This project goes from a simple analysis in Python to a complete dashboard at the end.
+Welcome to my end to end project in data analysis, where I am interested in the electric car market in the city of Washington in the United States. This project goes from a simple analysis in Python to a complete dashboard at the end.
 Nowadays, the number of policies encouraging the replacement of old polluting energy sources by new ones is growing. Being myself a 5th and final year student in Energy and Industrial Processes engineering, my interest in this project seems obvious.
 
 The data sourced from a Kaggle dataset which provides a foundation for my analysis, containing detailed information on the type of electric cars throught the Washinton State, their eligibility to the CAFV, or the evolution of the use of these cars during the years. Here is the link [Kaggle_dataset.ipynb](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data/versions/1/data)
