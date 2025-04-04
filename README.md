@@ -15,7 +15,7 @@ Below are the questions I want to answer in my project:
 3. Which type of vehicles have the most electric range?
 4. Which manufacturers produce the most electric vehicles ?
 5. What is the propensity of vehicles to meet the eligibility criteria for Clean Alternative Fuel Vehicle incentives or benefits, for each type of vehicle ?
-6. Dashboard
+6. DASHBOARD
 
 
 # TOOLS I USED 
